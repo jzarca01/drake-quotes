@@ -1,0 +1,14 @@
+{
+  "name": "drake-quotes",
+  "version": "1.0.0",
+  "description": "Drake quotes generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
+  "license": "ISC"
+}
