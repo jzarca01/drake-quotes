@@ -1,6 +1,6 @@
 {
   "name": "drake-quotes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Drake quotes generator",
   "main": "index.js",
   "directories": {

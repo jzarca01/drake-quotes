@@ -1,6 +1,6 @@
 # drake-quotes
 
-Because surprisinggly I couldn't find any on the Internet
+Because surprisingly I couldn't find any on the Internet
 
 ## Installation
 
@@ -11,13 +11,14 @@ npm install drake-quotes
 ## Usage
 
 ```javascript
-const { getQuotes } = require('drake-quotes');
+const { getQuote } = require('drake-quotes');
 ```
 
 ## Methods
 
 ```javascript
-getQuotes((category = null));
+getQuote();
+getQuote(category);
 ```
 
 Categories are :
